@@ -1,0 +1,17 @@
+- git status 
+
+- git add "nome completo do arquivo"
+(para adicionar o arquivo em questão ao controle de versão)
+
+- git add .
+(para adicionar vários arquivos ao controle de versão)
+
+- git commit -m "nome do commit"
+(para criar uma versão do código)
+
+- git remote add origin https://github.com/luan-marques/projeto1-luan-marques
+(para onde o código será enviado)
+
+- git push
+(para enviar alterações)
+
