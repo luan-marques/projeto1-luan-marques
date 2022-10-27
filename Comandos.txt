@@ -15,3 +15,9 @@
 - git push
 (para enviar alterações)
 
+- git reflog 
+(para ver o histórico de atualizações)
+
+- git reset --hard id_da_versao
+(para navegar entre versões do código)
+
