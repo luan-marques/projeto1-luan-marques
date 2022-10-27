@@ -15,3 +15,9 @@
 - git push
 (para enviar alterações)
 
+- git reflog 
+(para ver o histórico de atualizações)
+
+-
+(para navegar entre versões do código)
+
