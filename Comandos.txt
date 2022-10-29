@@ -18,10 +18,8 @@
 - git reflog 
 (para ver o histórico de atualizações)
 
-<<<<<<< HEAD
 - git reset --hard id_da_versao
-=======
--
->>>>>>> 30969a4f22b1dd8852d470d3a3eec30d6d3e40ac
 (para navegar entre versões do código)
+
+124
 
